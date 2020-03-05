@@ -5,4 +5,8 @@ Red
 Pink
 Yellow
 This are the colors of the rainbow
+<<<<<<< Ponies
 and the unicor and the Pony
+=======
+Something to learn about
+>>>>>>> master
